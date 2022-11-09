@@ -4,6 +4,6 @@ public class Electronic_Store_Project
     static int total, price;
     
     {
-    //p
+    //hi
     } 
 }
